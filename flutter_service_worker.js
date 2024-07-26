@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6cd759baec722c42725a5a3e978deb09",
+const RESOURCES = {"51630c7e": "5dcef449791fa27946b3d35ad8803796",
+"assets/AssetManifest.bin": "6cd759baec722c42725a5a3e978deb09",
 "assets/AssetManifest.bin.json": "6255728f465187e95d6b062bc19c14ab",
 "assets/AssetManifest.json": "b260d8e637062df5cd06273a592b7125",
 "assets/assets/fonts/montserrat/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
@@ -72,9 +73,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6cd759baec722c42725a5a3e978deb09
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "313b722515c8ee51c5adf34a0d1d1ec1",
-"/": "313b722515c8ee51c5adf34a0d1d1ec1",
-"main.dart.js": "7f9cb922b796255f616bda7a99db2d51",
+"index.html": "825d8a720a4f6e1963832f3e6dda3f1b",
+"/": "825d8a720a4f6e1963832f3e6dda3f1b",
+"main.dart.js": "498c8443a9324add170bf85459f3d83b",
 "manifest.json": "47e086f8841aee14e325f5f82ed0795f",
 "version.json": "f124181e58b12572810925130e6735b8"};
 // The application shell files that are downloaded before a service worker can
